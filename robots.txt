@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spicybetting.github.io/sitemap.xml
